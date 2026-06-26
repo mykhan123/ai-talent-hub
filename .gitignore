@@ -1,0 +1,29 @@
+# IntelliJ
+.idea/
+
+# STS
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Angular
+dist/
+
+# Env
+.env
